@@ -2,25 +2,16 @@
 
 En este proyecto te enseñaremos a como utilizar las etiquetas y atributos en los formularios a tu proyecto html de la mejor manera posible
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
+
+P
+
+### Instalación 🔧
 
 Necesitamos tener instalados los diferentes softwares:
 - [Visual Studio Code](https://code.visualstudio.com/download) Para editar la pagina web
 - [phpMyAdmin](https://www.phpmyadmin.net/) Necesaria para crear la pagina web
 - [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html) Para enlazar wordpress local y enlazar la base de datos
-
-
-### Instalación 🔧
-
-Necesitamos tener instalado [Visual Studio Code](https://code.visualstudio.com/download),  [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html),  [phpMyAdmin](https://www.phpmyadmin.net/)
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo (de prueba) ejecutandose_
 
 _Dí cómo será ese paso_
 
@@ -71,10 +62,6 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Christian Monrabal** - *Tablas* - [ChristianMonrabal](https://github.com/ChristianMonrabal/)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
