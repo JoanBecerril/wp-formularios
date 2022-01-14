@@ -16,12 +16,19 @@ Necesitamos tener instalados los diferentes softwares:
 _Dí cómo será ese paso_
 
 ```
-Da un ejemplo:
-- Descargar el proyecto desde GitHub (clonando o descargando el proyecto)
-- Directorio donde alojar l'app dentro del XAMPP
-- Localización del .sql
-- Importación de la base de datos
-- ...
+Visual  Studio Code:
+Primero buscamos Visual Studio Code en nuestro navegador para
+Se nos abrirá una ventana de instalación de VSC en la que clicamos aceptar, instalamos el software localizado donde queramos y clicamos aceptar hasta la finalización de la instalación.
+Para abrir nuestro repositorio tenemos que abrir una terminal dentro de VSC y escribir:
+git clone *codigo del repositorio de github*
+
+Y para subir los cambios a github:
+gitt add .
+git commit -m “ultimo”
+git push
+
+
+
 ```
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
