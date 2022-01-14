@@ -29,7 +29,10 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Despliegue 📦
 
-_Agrega notas adicionales sobre como probar l'app en el hosting (url, usuarios de prueba, password...)._
+- Visual Studio Code
+- Markdown
+- HTML
+- CSS
 
 ## Construido con 🛠️
 
