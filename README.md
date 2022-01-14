@@ -53,3 +53,4 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 ## Expresiones de Gratitud 🎁
 
 * Puedes donar clicando [este](https://tuputamadre.com/) enlace
+* Gracias a todos los que confiaban, y a los que no pues que les atropelle un tranvia
