@@ -1,6 +1,6 @@
-﻿# Tutorial para utilizar etiquetas y atributos de tablas y formularios
+﻿# Tutorial para utilizar etiquetas y atributos en tus formularios
 
-En este proyecto te enseñaremos a como utilizar tablas y formularios a tu proyecto html de la mejor manera posible
+En este proyecto te enseñaremos a como utilizar las etiquetas y atributos en los formularios a tu proyecto html de la mejor manera posible
 
 ## Comenzando 🚀
 
