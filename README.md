@@ -11,7 +11,10 @@ Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-Necesitamos tener instalado [Visual Studio Code](https://code.visualstudio.com/download),  [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html),  [phpMyAdmin](https://www.phpmyadmin.net/)
+Necesitamos tener instalados los diferentes softwares:
+- [Visual Studio Code](https://code.visualstudio.com/download) Para editar la pagina web
+- [phpMyAdmin](https://www.phpmyadmin.net/) Necesaria para crear la pagina web
+- [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html) Para enlazar wordpress local y enlazar la base de datos
 
 
 ### Instalación 🔧
