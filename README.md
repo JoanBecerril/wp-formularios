@@ -13,9 +13,6 @@ Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 
 Necesitamos tener instalado [Visual Studio Code](https://code.visualstudio.com/download),  [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html),  [phpMyAdmin](https://www.phpmyadmin.net/)
 
-```
-Da un ejemplo: XAMPP, VSC, ...
-```
 
 ### Instalación 🔧
 
