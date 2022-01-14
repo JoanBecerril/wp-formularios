@@ -93,7 +93,7 @@ Ahora toca instalar WordPress en XAMPP con el servidor local ya arrancado desde 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [phpMyAdmin](https://www.phpmyadmin.net/)
 - [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html)
-- 
+
 ## Autores ✒️
 
 * **Joan Becerril** - *Formularios* - [joanbecerril](https://github.com/joanbecerril/)
