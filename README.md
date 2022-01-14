@@ -1,6 +1,6 @@
-﻿# Aprendamos a instalar WordPress para utilizarlo
+﻿# Tutorial para utilizar etiquetas y atributos de tablas y formularios
 
-En este proyecto te enseñaremos a como utilizar tablas y formularios a tu proyecto html de la mejor maneta posible
+En este proyecto te enseñaremos a como utilizar tablas y formularios a tu proyecto html de la mejor manera posible
 
 ## Comenzando 🚀
 
@@ -16,6 +16,7 @@ Necesitamos tener instalado [Visual Studio Code](https://code.visualstudio.com/d
 
 ### Instalación 🔧
 
+Necesitamos tener instalado [Visual Studio Code](https://code.visualstudio.com/download),  [XAMPP / Wordpress Local](https://www.apachefriends.org/es/index.html),  [phpMyAdmin](https://www.phpmyadmin.net/)
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo (de prueba) ejecutandose_
 
 _Dí cómo será ese paso_
