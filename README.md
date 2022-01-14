@@ -4,7 +4,7 @@ En este proyecto te enseñaremos a como utilizar las etiquetas y atributos en lo
 
 ### Pre-requisitos 📋
 
-P
+Un ordenador y conexión a internet
 
 ### Instalación 🔧
 
