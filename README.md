@@ -43,20 +43,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 * [VSC](https://code.visualstudio.com/) - Usado para editar código fuente y ejecutar comandos
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-[Crear una nueva [Release](https://docs.github.com/es/repositories/releasing-projects-on-github/about-releases) para el proyecto acabado (este elemento se encuentra en el apartado About del repositorio) utilizando [SemVer](http://semver.org/) para el tag de la [Release](https://docs.github.com/es/repositories/releasing-projects-on-github/about-releases)]
-
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
